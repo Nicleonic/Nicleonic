@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Projects
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Programming Projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... 📧 nicleonic2.0@gmail.com ... 📲 +243992959514
 
 <!---
 Nicleonic/Nicleonic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
